@@ -4,7 +4,11 @@ Remake of an old classic arcade shooter game
 Gamplay : 
 
 
-https://github.com/user-attachments/assets/1c6845bd-8d43-4226-af4d-1ee9d0021671
+
+https://github.com/user-attachments/assets/be71a668-1b5a-4e93-90e1-bde7f15e06b6
+
+
+
 
 
 
